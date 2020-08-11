@@ -3,7 +3,7 @@
     <head>
         <title>ไนท์</title>
     </head>
-    <body>นายธนพัฒน์ นุชนารถ<p>เลขที่5 มัธยมศึกษาปีที่5/2</p></body>
+    <body>นายธนพัฒน์ นุชนารถ<p>เลขที่5 ม.5/2</p></body>
     <table> <table border="3">
         <tr>
             <td>1</td>
